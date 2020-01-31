@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="64f3bc9d-b04c-4bbd-b4ea-d1506b4f3f8f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1S6Pzx1wIwcFm6wDnUSMOLcbNq8" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/concurrent/Day03" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/concurrent/Day03" />
+      <recent name="$PROJECT_DIR$/python_net" />
+      <recent name="$PROJECT_DIR$/python_core/package01/package02" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/concurrent/Day03" />
+      <recent name="$PROJECT_DIR$/python_net" />
+      <recent name="$PROJECT_DIR$/linux" />
+      <recent name="$PROJECT_DIR$/project_month01/game_2048" />
+      <recent name="$PROJECT_DIR$/project_month01/student_manager_system" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.game2048_core">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="python_learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="baidu_get_location" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baidu_get_location.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bll_2048" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project_month01/game_2048" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project_month01/game_2048/bll_2048.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="game2048_core" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project_month01/game_2048" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project_month01/game_2048/game2048_core.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="question01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/question01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.test01" />
+      <item itemvalue="Python.question01" />
+      <item itemvalue="Python.baidu_get_location" />
+      <item itemvalue="Python.bll_2048" />
+      <item itemvalue="Python.game2048_core" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.game2048_core" />
+        <item itemvalue="Python.bll_2048" />
+        <item itemvalue="Python.test01" />
+        <item itemvalue="Python.baidu_get_location" />
+        <item itemvalue="Python.question01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64f3bc9d-b04c-4bbd-b4ea-d1506b4f3f8f" name="Default Changelist" comment="" />
+      <created>1570881337879</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570881337879</updated>
+      <workItem from="1570881341717" duration="19000" />
+      <workItem from="1570881375993" duration="37000" />
+      <workItem from="1570881432408" duration="71348000" />
+      <workItem from="1571792153217" duration="1878000" />
+      <workItem from="1571820925136" duration="291000" />
+      <workItem from="1571821397117" duration="570000" />
+      <workItem from="1571828311780" duration="294000" />
+      <workItem from="1571828609376" duration="31861000" />
+      <workItem from="1572232945173" duration="25400000" />
+      <workItem from="1572430705558" duration="4765000" />
+      <workItem from="1572500196899" duration="127000" />
+      <workItem from="1572520860390" duration="171000" />
+      <workItem from="1572521489127" duration="1047000" />
+      <workItem from="1572522568646" duration="5552000" />
+      <workItem from="1572535351192" duration="443000" />
+      <workItem from="1572572254010" duration="543000" />
+      <workItem from="1572611615686" duration="1859000" />
+      <workItem from="1572768790336" duration="56548000" />
+      <workItem from="1573621625366" duration="72271000" />
+      <workItem from="1574644534339" duration="11712000" />
+      <workItem from="1574770961905" duration="17909000" />
+      <workItem from="1575012134952" duration="843000" />
+      <workItem from="1575247454389" duration="26328000" />
+      <workItem from="1576720090034" duration="888000" />
+      <workItem from="1576722517333" duration="308000" />
+      <workItem from="1576733217199" duration="11333000" />
+      <workItem from="1577432298385" duration="3378000" />
+      <workItem from="1578286280313" duration="109000" />
+      <workItem from="1579947824291" duration="1527000" />
+      <workItem from="1580447081300" duration="313000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="517" y="333" key="com.intellij.ide.util.TipDialog" timestamp="1580447213061">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="517" y="333" key="com.intellij.ide.util.TipDialog/0.23.1680.956@0.23.1680.956" timestamp="1580447213061" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_oo/Day05_06.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python_learn$Day06_04.coverage" NAME="Day06_04 Coverage Results" MODIFIED="1572353772763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_core" />
+    <SUITE FILE_PATH="coverage/python_learn$send_file.coverage" NAME="send_file Coverage Results" MODIFIED="1574154259084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_net" />
+    <SUITE FILE_PATH="coverage/python_learn$process_attr.coverage" NAME="process_attr Coverage Results" MODIFIED="1575352912855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/concurrent" />
+    <SUITE FILE_PATH="coverage/python_learn$async_test.coverage" NAME="async_test Coverage Results" MODIFIED="1576658493893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/concurrent/Day05" />
+    <SUITE FILE_PATH="coverage/python_learn$Day03_04.coverage" NAME="Day03_04 Coverage Results" MODIFIED="1571750115578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_core" />
+    <SUITE FILE_PATH="coverage/python_learn$greenlet_0.coverage" NAME="greenlet_0 Coverage Results" MODIFIED="1576745035813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/concurrent/Day05" />
+    <SUITE FILE_PATH="coverage/python_learn$Exe_Day05_07.coverage" NAME="Exe_Day05_07 Coverage Results" MODIFIED="1571642796587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_oo" />
+    <SUITE FILE_PATH="coverage/python_learn$Day04_04.coverage" NAME="Day04_04 Coverage Results" MODIFIED="1571920152948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_core" />
+    <SUITE FILE_PATH="coverage/python_learn$pytest_in_test_Day02_05_py.coverage" NAME="pytest in test_Day02_05.py Coverage Results" MODIFIED="1571297062571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base02" />
+    <SUITE FILE_PATH="coverage/python_learn$broadcast_send.coverage" NAME="broadcast_send Coverage Results" MODIFIED="1574178285801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_net" />
+    <SUITE FILE_PATH="coverage/python_learn$process1.coverage" NAME="process1 Coverage Results" MODIFIED="1574777070513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/concurrent" />
+    <SUITE FILE_PATH="coverage/python_learn$Exe_Day01_11.coverage" NAME="Exe_Day01_11 Coverage Results" MODIFIED="1572954945348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_struct" />
+    <SUITE FILE_PATH="coverage/python_learn$Exe_Day02_11.coverage" NAME="Exe_Day02_11 Coverage Results" MODIFIED="1571927433753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_core" />
+    <SUITE FILE_PATH="coverage/python_learn$chat_server.coverage" NAME="chat_server Coverage Results" MODIFIED="1574694117121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cuncurrent" />
+    <SUITE FILE_PATH="coverage/python_learn$tcp_server.coverage" NAME="tcp_server Coverage Results" MODIFIED="1574172336435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_net" />
+    <SUITE FILE_PATH="coverage/python_learn$Exe_Day03_11.coverage" NAME="Exe_Day03_11 Coverage Results" MODIFIED="1571642844199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_oo" />
+    <SUITE FILE_PATH="coverage/python_learn$chat_client.coverage" NAME="chat_client Coverage Results" MODIFIED="1574694123332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cuncurrent" />
+    <SUITE FILE_PATH="coverage/python_learn$bitree.coverage" NAME="bitree Coverage Results" MODIFIED="1573432660098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_struct" />
+    <SUITE FILE_PATH="coverage/python_learn$file_read.coverage" NAME="file_read Coverage Results" MODIFIED="1573572291570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/linux" />
+    <SUITE FILE_PATH="coverage/python_learn$pachong.coverage" NAME="pachong Coverage Results" MODIFIED="1574644684767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_learn$multi_thread.coverage" NAME="multi_thread Coverage Results" MODIFIED="1575430451853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/concurrent/Day03" />
+    <SUITE FILE_PATH="coverage/python_learn$gevent_text.coverage" NAME="gevent_text Coverage Results" MODIFIED="1576746674079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/concurrent/Day05" />
+    <SUITE FILE_PATH="coverage/python_learn$Day05_03.coverage" NAME="Day05_03 Coverage Results" MODIFIED="1571141754482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_oo" />
+    <SUITE FILE_PATH="coverage/python_learn$tcp_client.coverage" NAME="tcp_client Coverage Results" MODIFIED="1574171921428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_net" />
+    <SUITE FILE_PATH="coverage/python_learn$Day06_03.coverage" NAME="Day06_03 Coverage Results" MODIFIED="1572351420222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_core" />
+    <SUITE FILE_PATH="coverage/python_learn$struct_recv.coverage" NAME="struct_recv Coverage Results" MODIFIED="1574345138487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_net" />
+    <SUITE FILE_PATH="coverage/python_learn$lstack.coverage" NAME="lstack Coverage Results" MODIFIED="1573023073884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_struct" />
+    <SUITE FILE_PATH="coverage/python_learn$Exe_Day02_12.coverage" NAME="Exe_Day02_12 Coverage Results" MODIFIED="1573136481028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_struct" />
+    <SUITE FILE_PATH="coverage/python_learn$bll.coverage" NAME="bll Coverage Results" MODIFIED="1572525488300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_month01/game_2048" />
+    <SUITE FILE_PATH="coverage/python_learn$hold.coverage" NAME="hold Coverage Results" MODIFIED="1573735176396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_net" />
+    <SUITE FILE_PATH="coverage/python_learn$fork.coverage" NAME="fork Coverage Results" MODIFIED="1574502296247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_net" />
+    <SUITE FILE_PATH="coverage/python_learn$with.coverage" NAME="with Coverage Results" MODIFIED="1573720563238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_net" />
+    <SUITE FILE_PATH="coverage/python_learn$exec_1.coverage" NAME="exec_1 Coverage Results" MODIFIED="1573136029856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads/第二阶段/DATA_STRUCT/day03" />
+    <SUITE FILE_PATH="coverage/python_learn$mythread.coverage" NAME="mythread Coverage Results" MODIFIED="1575361217157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/concurrent/Day02" />
+    <SUITE FILE_PATH="coverage/python_learn$process2.coverage" NAME="process2 Coverage Results" MODIFIED="1574777813439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/concurrent" />
+    <SUITE FILE_PATH="coverage/python_learn$Day04_03.coverage" NAME="Day04_03 Coverage Results" MODIFIED="1571918650113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_core" />
+    <SUITE FILE_PATH="coverage/python_learn$http_test.coverage" NAME="http_test Coverage Results" MODIFIED="1574340288828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_net" />
+    <SUITE FILE_PATH="coverage/python_learn$lstack__1_.coverage" NAME="lstack (1) Coverage Results" MODIFIED="1572967274992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads/第二阶段/DATA_STRUCT/day02" />
+    <SUITE FILE_PATH="coverage/python_learn$Day02_03.coverage" NAME="Day02_03 Coverage Results" MODIFIED="1571983226456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_core" />
+    <SUITE FILE_PATH="coverage/python_learn$pytest_in_test_Day04_11_py.coverage" NAME="pytest in test_Day04_11.py Coverage Results" MODIFIED="1571297045247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base02" />
+    <SUITE FILE_PATH="coverage/python_learn$buffer.coverage" NAME="buffer Coverage Results" MODIFIED="1573721540118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_net" />
+    <SUITE FILE_PATH="coverage/python_learn$module_b.coverage" NAME="module_b Coverage Results" MODIFIED="1572326998847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_core/package01/package02" />
+    <SUITE FILE_PATH="coverage/python_learn$Day02_05.coverage" NAME="Day02_05 Coverage Results" MODIFIED="1572443675736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_core" />
+    <SUITE FILE_PATH="coverage/python_learn$Day01_05.coverage" NAME="Day01_05 Coverage Results" MODIFIED="1574170375452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_core" />
+    <SUITE FILE_PATH="coverage/python_learn$squeue.coverage" NAME="squeue Coverage Results" MODIFIED="1573023575669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_struct" />
+    <SUITE FILE_PATH="coverage/python_learn$chat_server__1_.coverage" NAME="chat_server (1) Coverage Results" MODIFIED="1574694672121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads/第二阶段/CONCURRENT/day08" />
+    <SUITE FILE_PATH="coverage/python_learn$Exe_Day01_10.coverage" NAME="Exe_Day01_10 Coverage Results" MODIFIED="1573718938098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/linux" />
+    <SUITE FILE_PATH="coverage/python_learn$shopping_Day04_11.coverage" NAME="shopping_Day04_11 Coverage Results" MODIFIED="1571642732762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base02" />
+    <SUITE FILE_PATH="coverage/python_learn$bll_2048.coverage" NAME="bll_2048 Coverage Results" MODIFIED="1579948078333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_month01/game_2048" />
+    <SUITE FILE_PATH="coverage/python_learn$multi_process.coverage" NAME="multi_process Coverage Results" MODIFIED="1575430012478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/concurrent/Day03" />
+    <SUITE FILE_PATH="coverage/python_learn$thread2.coverage" NAME="thread2 Coverage Results" MODIFIED="1575352011784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/concurrent/Day02" />
+    <SUITE FILE_PATH="coverage/python_learn$question01.coverage" NAME="question01 Coverage Results" MODIFIED="1577435027745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_learn$Day04_05.coverage" NAME="Day04_05 Coverage Results" MODIFIED="1572093213082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_core" />
+    <SUITE FILE_PATH="coverage/python_learn$thread_class.coverage" NAME="thread_class Coverage Results" MODIFIED="1575360828979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/concurrent/Day02" />
+    <SUITE FILE_PATH="coverage/python_learn$two_child.coverage" NAME="two_child Coverage Results" MODIFIED="1574520997698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_net" />
+    <SUITE FILE_PATH="coverage/python_learn$bytes.coverage" NAME="bytes Coverage Results" MODIFIED="1573568935051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/linux" />
+    <SUITE FILE_PATH="coverage/python_learn$udp_client.coverage" NAME="udp_client Coverage Results" MODIFIED="1574169581223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_net" />
+    <SUITE FILE_PATH="coverage/python_learn$word_upd_client.coverage" NAME="word_upd_client Coverage Results" MODIFIED="1574171024543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_net" />
+    <SUITE FILE_PATH="coverage/python_learn$broadcast_recv.coverage" NAME="broadcast_recv Coverage Results" MODIFIED="1574177981601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_net" />
+    <SUITE FILE_PATH="coverage/python_learn$copy_file.coverage" NAME="copy_file Coverage Results" MODIFIED="1575444170142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/concurrent/Day03" />
+    <SUITE FILE_PATH="coverage/python_learn$search.coverage" NAME="search Coverage Results" MODIFIED="1573489071697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_struct" />
+    <SUITE FILE_PATH="coverage/python_learn$Day05_07.coverage" NAME="Day05_07 Coverage Results" MODIFIED="1572266424674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_core" />
+    <SUITE FILE_PATH="coverage/python_learn$main.coverage" NAME="main Coverage Results" MODIFIED="1571837969305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_month01/student_manager_system" />
+    <SUITE FILE_PATH="coverage/python_learn$thread_event.coverage" NAME="thread_event Coverage Results" MODIFIED="1575428286878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/concurrent/Day02" />
+    <SUITE FILE_PATH="coverage/python_learn$demo.coverage" NAME="demo Coverage Results" MODIFIED="1573734625985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_net" />
+    <SUITE FILE_PATH="coverage/python_learn$Day02_10.coverage" NAME="Day02_10 Coverage Results" MODIFIED="1572445346407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_core" />
+    <SUITE FILE_PATH="coverage/python_learn$Exe_Day02_04.coverage" NAME="Exe_Day02_04 Coverage Results" MODIFIED="1571983391779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_core" />
+    <SUITE FILE_PATH="coverage/python_learn$Day03_10.coverage" NAME="Day03_10 Coverage Results" MODIFIED="1570962296476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_oo" />
+    <SUITE FILE_PATH="coverage/python_learn$linklist.coverage" NAME="linklist Coverage Results" MODIFIED="1572951933819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_struct" />
+    <SUITE FILE_PATH="coverage/python_learn$chat_client__2_.coverage" NAME="chat_client (2) Coverage Results" MODIFIED="1574694713813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads/第二阶段/CONCURRENT/day08" />
+    <SUITE FILE_PATH="coverage/python_learn$game2048_core.coverage" NAME="game2048_core Coverage Results" MODIFIED="1579948083839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_month01/game_2048" />
+    <SUITE FILE_PATH="coverage/python_learn$process3.coverage" NAME="process3 Coverage Results" MODIFIED="1574779226250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/concurrent" />
+    <SUITE FILE_PATH="coverage/python_learn$Day03_08.coverage" NAME="Day03_08 Coverage Results" MODIFIED="1571918291619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_core" />
+    <SUITE FILE_PATH="coverage/python_learn$test01.coverage" NAME="test01 Coverage Results" MODIFIED="1577947454561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_learn$Day02_02.coverage" NAME="Day02_02 Coverage Results" MODIFIED="1574172176938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_core" />
+    <SUITE FILE_PATH="coverage/python_learn$Day04_08.coverage" NAME="Day04_08 Coverage Results" MODIFIED="1572007712313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_core" />
+    <SUITE FILE_PATH="coverage/python_learn$poll_server.coverage" NAME="poll_server Coverage Results" MODIFIED="1576573624961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/concurrent/Day04" />
+    <SUITE FILE_PATH="coverage/python_learn$Exe_Day02_05.coverage" NAME="Exe_Day02_05 Coverage Results" MODIFIED="1572962830328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_struct" />
+    <SUITE FILE_PATH="coverage/python_learn$Exe_Day03_05.coverage" NAME="Exe_Day03_05 Coverage Results" MODIFIED="1571752561461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_core" />
+    <SUITE FILE_PATH="coverage/python_learn$Day05_02.coverage" NAME="Day05_02 Coverage Results" MODIFIED="1572262564967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_core" />
+    <SUITE FILE_PATH="coverage/python_learn$sort.coverage" NAME="sort Coverage Results" MODIFIED="1573487610017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_struct" />
+    <SUITE FILE_PATH="coverage/python_learn$Day05_08.coverage" NAME="Day05_08 Coverage Results" MODIFIED="1572267119400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_core" />
+    <SUITE FILE_PATH="coverage/python_learn$udp_server.coverage" NAME="udp_server Coverage Results" MODIFIED="1574169576459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_net" />
+    <SUITE FILE_PATH="coverage/python_learn$Day01_07.coverage" NAME="Day01_07 Coverage Results" MODIFIED="1571561460345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_core" />
+    <SUITE FILE_PATH="coverage/python_learn$fork1.coverage" NAME="fork1 Coverage Results" MODIFIED="1574519245331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_net" />
+    <SUITE FILE_PATH="coverage/python_learn$Day03_02.coverage" NAME="Day03_02 Coverage Results" MODIFIED="1571665971436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_core" />
+    <SUITE FILE_PATH="coverage/python_learn$zombie.coverage" NAME="zombie Coverage Results" MODIFIED="1574520038074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_net" />
+    <SUITE FILE_PATH="coverage/python_learn$chat_server__2_.coverage" NAME="chat_server (2) Coverage Results" MODIFIED="1574775445240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/concurrent" />
+    <SUITE FILE_PATH="coverage/python_learn$struct_send.coverage" NAME="struct_send Coverage Results" MODIFIED="1574345207238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_net" />
+    <SUITE FILE_PATH="coverage/python_learn$single.coverage" NAME="single Coverage Results" MODIFIED="1575429743233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/concurrent/Day03" />
+    <SUITE FILE_PATH="coverage/python_learn$recv_file.coverage" NAME="recv_file Coverage Results" MODIFIED="1574154255503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_net" />
+    <SUITE FILE_PATH="coverage/python_learn$httpserver.coverage" NAME="httpserver Coverage Results" MODIFIED="1574342324381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_net" />
+    <SUITE FILE_PATH="coverage/python_learn$Day05_09.coverage" NAME="Day05_09 Coverage Results" MODIFIED="1572270489788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_core" />
+    <SUITE FILE_PATH="coverage/python_learn$Day05_06.coverage" NAME="Day05_06 Coverage Results" MODIFIED="1571210050817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_oo" />
+    <SUITE FILE_PATH="coverage/python_learn$Day01_06.coverage" NAME="Day01_06 Coverage Results" MODIFIED="1571490102264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_core" />
+    <SUITE FILE_PATH="coverage/python_learn$Day03_06.coverage" NAME="Day03_06 Coverage Results" MODIFIED="1571750591548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_core" />
+    <SUITE FILE_PATH="coverage/python_learn$file_open.coverage" NAME="file_open Coverage Results" MODIFIED="1573570340163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/linux" />
+    <SUITE FILE_PATH="coverage/python_learn$Exe_Day05_11.coverage" NAME="Exe_Day05_11 Coverage Results" MODIFIED="1571642922457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_oo" />
+    <SUITE FILE_PATH="coverage/python_learn$write_time.coverage" NAME="write_time Coverage Results" MODIFIED="1573736172408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_net" />
+    <SUITE FILE_PATH="coverage/python_learn$baidu_get_location.coverage" NAME="baidu_get_location Coverage Results" MODIFIED="1577435143107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_learn$sock_attr.coverage" NAME="sock_attr Coverage Results" MODIFIED="1574171794982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_net" />
+    <SUITE FILE_PATH="coverage/python_learn$word_udp_server.coverage" NAME="word_udp_server Coverage Results" MODIFIED="1574171020332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_net" />
+    <SUITE FILE_PATH="coverage/python_learn$Day01_10.coverage" NAME="Day01_10 Coverage Results" MODIFIED="1571648670042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_core" />
+    <SUITE FILE_PATH="coverage/python_learn$module01.coverage" NAME="module01 Coverage Results" MODIFIED="1571828419328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_core" />
+    <SUITE FILE_PATH="coverage/python_learn$sstack.coverage" NAME="sstack Coverage Results" MODIFIED="1572959184828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_struct" />
+    <SUITE FILE_PATH="coverage/python_learn$chat_client__1_.coverage" NAME="chat_client (1) Coverage Results" MODIFIED="1574775449748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/concurrent" />
+    <SUITE FILE_PATH="coverage/python_learn$thread_attr.coverage" NAME="thread_attr Coverage Results" MODIFIED="1575354945937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/concurrent/Day02" />
+    <SUITE FILE_PATH="coverage/python_learn$pdf.coverage" NAME="pdf Coverage Results" MODIFIED="1573142790890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_learn$student_manager_system.coverage" NAME="student_manager_system Coverage Results" MODIFIED="1571063116926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_month01" />
+  </component>
+</project>
