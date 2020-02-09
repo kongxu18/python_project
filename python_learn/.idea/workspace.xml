@@ -15,6 +15,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
@@ -22,6 +25,7 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1S6Pzx1wIwcFm6wDnUSMOLcbNq8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -32,6 +36,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/concurrent/Day03" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -278,10 +283,15 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="分支joy" />
+    <option name="LAST_COMMIT_MESSAGE" value="分支joy" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="517" y="333" key="com.intellij.ide.util.TipDialog" timestamp="1580447213061">
-      <screen x="0" y="23" width="1680" height="956" />
+    <state x="517" y="333" key="com.intellij.ide.util.TipDialog" timestamp="1581251823166">
+      <screen x="0" y="23" width="1680" height="955" />
     </state>
+    <state x="517" y="333" key="com.intellij.ide.util.TipDialog/0.23.1680.955@0.23.1680.955" timestamp="1581251823166" />
     <state x="517" y="333" key="com.intellij.ide.util.TipDialog/0.23.1680.956@0.23.1680.956" timestamp="1580447213061" />
   </component>
   <component name="XDebuggerManager">
