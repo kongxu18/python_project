@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64f3bc9d-b04c-4bbd-b4ea-d1506b4f3f8f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../create_pdf/.idea/create_pdf.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../create_pdf/create01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../create_pdf/create02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../deal_math/math.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/rSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mysql_Core/mysql.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python_learn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_learn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deal_math/deal_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deal_math/deal_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deal_math/deal_03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2048" beforeDir="false" afterPath="$PROJECT_DIR$/../2048" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../create_pdf/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../create_pdf/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deal_math/math.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +60,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -77,7 +76,7 @@
       <recent name="$PROJECT_DIR$/project_month01/student_manager_system" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Exe_Day01_11">
+  <component name="RunManager" selected="Python.mysql">
     <configuration name="Day05_03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -234,8 +233,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Exe_Day01_11" />
         <item itemvalue="Python.mysql" />
+        <item itemvalue="Python.Exe_Day01_11" />
         <item itemvalue="Python.broadcast_recv" />
         <item itemvalue="Python.Day05_06" />
         <item itemvalue="Python.Day05_03" />
@@ -295,6 +294,8 @@
       <workItem from="1583112694177" duration="845000" />
       <workItem from="1583473584752" duration="573000" />
       <workItem from="1583475975342" duration="69000" />
+      <workItem from="1583476357371" duration="197000" />
+      <workItem from="1584424502886" duration="651000" />
     </task>
     <servers />
   </component>
@@ -326,26 +327,30 @@
       <screen x="0" y="23" width="1680" height="955" />
     </state>
     <state x="524" y="112" key="#exercise_tarnar/0.23.1680.955@0.23.1680.955" timestamp="1583111924640" />
-    <state width="1080" height="211" key="GridCell.Tab.0.bottom" timestamp="1583475970033">
-      <screen x="0" y="23" width="1680" height="955" />
+    <state width="1080" height="211" key="GridCell.Tab.0.bottom" timestamp="1584425196064">
+      <screen x="0" y="23" width="1680" height="956" />
     </state>
     <state width="1080" height="211" key="GridCell.Tab.0.bottom/0.23.1680.955@0.23.1680.955" timestamp="1583475970033" />
-    <state width="1080" height="211" key="GridCell.Tab.0.center" timestamp="1583475970033">
-      <screen x="0" y="23" width="1680" height="955" />
+    <state width="1080" height="211" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1584425196064" />
+    <state width="1080" height="211" key="GridCell.Tab.0.center" timestamp="1584425196063">
+      <screen x="0" y="23" width="1680" height="956" />
     </state>
     <state width="1080" height="211" key="GridCell.Tab.0.center/0.23.1680.955@0.23.1680.955" timestamp="1583475970033" />
-    <state width="1080" height="211" key="GridCell.Tab.0.left" timestamp="1583475970032">
-      <screen x="0" y="23" width="1680" height="955" />
+    <state width="1080" height="211" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1584425196063" />
+    <state width="1080" height="211" key="GridCell.Tab.0.left" timestamp="1584425196063">
+      <screen x="0" y="23" width="1680" height="956" />
     </state>
     <state width="1080" height="211" key="GridCell.Tab.0.left/0.23.1680.955@0.23.1680.955" timestamp="1583475970032" />
-    <state width="1080" height="211" key="GridCell.Tab.0.right" timestamp="1583475970033">
-      <screen x="0" y="23" width="1680" height="955" />
+    <state width="1080" height="211" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1584425196063" />
+    <state width="1080" height="211" key="GridCell.Tab.0.right" timestamp="1584425196063">
+      <screen x="0" y="23" width="1680" height="956" />
     </state>
     <state width="1080" height="211" key="GridCell.Tab.0.right/0.23.1680.955@0.23.1680.955" timestamp="1583475970033" />
-    <state x="201" y="159" key="SettingsEditor" timestamp="1583112845675">
+    <state width="1080" height="211" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1584425196063" />
+    <state x="201" y="159" key="SettingsEditor" timestamp="1583476561963">
       <screen x="0" y="23" width="1680" height="955" />
     </state>
-    <state x="201" y="159" key="SettingsEditor/0.23.1680.955@0.23.1680.955" timestamp="1583112845675" />
+    <state x="201" y="159" key="SettingsEditor/0.23.1680.955@0.23.1680.955" timestamp="1583476561963" />
     <state x="517" y="333" key="com.intellij.ide.util.TipDialog" timestamp="1583112707131">
       <screen x="0" y="23" width="1680" height="955" />
     </state>
@@ -435,7 +440,7 @@
     <SUITE FILE_PATH="coverage/python_learn$poll_server.coverage" NAME="poll_server Coverage Results" MODIFIED="1576573624961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/concurrent/Day04" />
     <SUITE FILE_PATH="coverage/python_learn$Exe_Day02_05.coverage" NAME="Exe_Day02_05 Coverage Results" MODIFIED="1572962830328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_struct" />
     <SUITE FILE_PATH="coverage/python_learn$Exe_Day03_05.coverage" NAME="Exe_Day03_05 Coverage Results" MODIFIED="1571752561461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_core" />
-    <SUITE FILE_PATH="coverage/python_learn$mysql.coverage" NAME="mysql Coverage Results" MODIFIED="1583113027426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Mysql_Core" />
+    <SUITE FILE_PATH="coverage/python_learn$mysql.coverage" NAME="mysql Coverage Results" MODIFIED="1584424848393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Mysql_Core" />
     <SUITE FILE_PATH="coverage/python_learn$Day05_02.coverage" NAME="Day05_02 Coverage Results" MODIFIED="1572262564967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_core" />
     <SUITE FILE_PATH="coverage/python_learn$sort.coverage" NAME="sort Coverage Results" MODIFIED="1573487610017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_struct" />
     <SUITE FILE_PATH="coverage/python_learn$Day05_08.coverage" NAME="Day05_08 Coverage Results" MODIFIED="1572267119400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_core" />

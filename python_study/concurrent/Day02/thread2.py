@@ -1,5 +1,5 @@
 """
-    线程函数穿参数
+    线程函数传参数
 """
 from threading import Thread
 from time import sleep
